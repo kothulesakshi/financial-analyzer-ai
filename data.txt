@@ -1,0 +1,16 @@
+Company: ABC Technologies
+
+Revenue 2023: 1,200,000 USD
+Revenue 2024: 1,500,000 USD
+
+Expenses 2023: 800,000 USD
+Expenses 2024: 900,000 USD
+
+Net Profit 2023: 400,000 USD
+Net Profit 2024: 600,000 USD
+
+Debt: 200,000 USD
+Assets: 2,000,000 USD
+
+Market Growth: 10%
+Risk Level: Medium
